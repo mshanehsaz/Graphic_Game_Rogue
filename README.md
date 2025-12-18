@@ -1,26 +1,8 @@
-# Graphic_Game_Rogue
-Rogue, Nostalgic Game Remake 
+# Project
 
-🎯 Goal of the Project
+## شما می‌توانید داک‌های هر فاز پروژه را از لینک‌های زیر دانلود کنید:
+فاز اول: 
 
-This project is a fan-made remake of classic rogue-style gameplay. It is designed for learning, experimenting, and having fun with game development concepts such as:
-
-    Map generation
-
-    Enemy AI
-
-    Level progression
-
-    Resource management
-
-🛠️ Tech Stack
-
-    Language: C++ / Java / Python (depending on your implementation)
-
-    Graphics: SDL2 / OpenGL / Unity / Godot
-
-    Build Tools: CMake / Gradle / etc.
-
-📜 Disclaimer
-
-This is an unofficial project inspired by rogue-like games. It is not affiliated with or endorsed by any official game studio.
+https://github.com/FundamentalOfProgramming-SUT-2024/fundamentalofprogramming-sut-2024-classroom-fop2024_project-Rogue_Project/blob/main/FOP_Project2024-Phase1.pdf
+محمد شانه ساززاده 
+۴۰۳۱۰۶۱۳۲
