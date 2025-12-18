@@ -10,12 +10,6 @@ An unofficial **rogue-inspired adventure game** where players explore mysterious
 - **Magic Spells**: Cast powerful spells to defeat enemies or protect yourself.  
 - **Progressive Unlocks**: Discover new maps, bosses, and hidden dungeons as you advance.  
 
-## 🚀 Getting Started
-Clone the repository and run the game locally:
-
-```bash
-git clone https://github.com/your-username/rogue-rebuild.git
-cd rogue-rebuild
 🎯 Goal of the Project
 
 This project is a fan-made remake of classic rogue-style gameplay. It is designed for learning, experimenting, and having fun with game development concepts such as:
