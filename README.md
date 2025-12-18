@@ -24,11 +24,9 @@ This project is a fan-made remake of classic rogue-style gameplay. It is designe
 
 🛠️ Tech Stack
 
-    Language: C++ / Java / Python (depending on your implementation)
+    Language: C
 
-    Graphics: SDL2 / OpenGL / Unity / Godot
-
-    Build Tools: CMake / Gradle / etc.
+    Graphics: NCURSES
 
 📜 Disclaimer
 
